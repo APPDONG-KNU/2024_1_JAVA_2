@@ -22,7 +22,7 @@
 | [<img src="https://github.com/kminjik.png" width="100px">](https://github.com/kminjik) 
 | [<img src="https://github.com/ImKimJueun.png" width="100px">](https://github.com/ImKimJueun) 
 | [<img src="https://github.com/깃허브닉네임3.png" width="100px">](https://github.com/깃허브닉네임3) |
-|:----:|
+|:----:| :----: | :----: |
 | [김민직](https://github.com/kminjik) 
 | [김주은](https://github.com/ImKimJueun) 
 | [양성모](https://github.com/깃허브닉네임3) | 
