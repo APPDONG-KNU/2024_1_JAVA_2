@@ -1,0 +1,4 @@
+mkdir hello
+cd hello
+git init
+git remote add origin https://github.com/APPDONG-KNU/2024_1_JAVA_2
