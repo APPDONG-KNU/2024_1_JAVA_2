@@ -1,9 +1,0 @@
-mkdir minjik
-cd minjik
-git init
-git remote add origin https://github.com/APPDONG-KNU/2024_1_JAVA_2
-
-git add _01_HelloWorld.java
-git add .
-git commit -m "첫 커밋"
-git push origin master
